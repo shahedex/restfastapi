@@ -22,7 +22,7 @@ $ poetry run task app
 ## 3. Run with default Python with debug info
 ```bash
 $ python app/main.py
-
+```
 # Run with docker
 ```bash
 $ docker build -t fastapi-rest .
